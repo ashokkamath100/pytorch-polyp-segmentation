@@ -1,0 +1,32 @@
+### Python ###
+__pycache__/
+*.py[cod]
+*$py.class
+
+### Data ###
+# Ignore all images in any subfolder of data/
+data/**/*.jpg
+data/**/*.png
+
+# But keep the .gitkeep placeholder files
+!data/**/.gitkeep
+
+### Checkpoints ###
+# Ignore all model weights
+checkpoints/**/*.pt
+checkpoints/**/*.pth
+!checkpoints/.
+!checkpoints/.gitkeep
+
+### Output Files ###
+# Ignore generated images
+output_*.jpg
+*.jpg
+
+### Environment ###
+.venv/
+.env
+
+### OS/System Files ###
+.DS_Store
+Thumbs.db
