@@ -55,10 +55,6 @@ To understand the project in depth, please refer to `Report.pdf`. The report con
 -   Zahin Awosaf
 -   Quincy Nickens
 
-### 🔗 Links
-
--   GitHub Repository: [Link to your GitHub repository] (Replace with your repo link)
--   Report PDF: [Google Drive Link to Report.pdf](https://drive.google.com/open?id=1VzUI0Kz1XhvWM8ACgkhGGKlk9FUNsWtt)
 
 ### 📅 Date
 
