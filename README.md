@@ -51,7 +51,7 @@ To understand the project in depth, please refer to `Report.pdf`. The report con
 
 ### 🤝 Contributors
 
--   Ashok Kamath (ashok.kamath19@gmail.com)
+-   Ashok Kamath 
 -   Zahin Awosaf
 -   Quincy Nickens
 
